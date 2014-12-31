@@ -1,0 +1,18 @@
+---
+layout: default
+---
+
+<div class="posts">
+  {% for poem in site.poems %}
+    <article class="post">    
+      
+      <h1><a href="{{ site.baseurl }}{{ poem.url }}">{{ poem.title }}</a></h1>
+
+      <div class="entry">
+        {{ poem.content | truncatewords:40}}
+      </div>
+      
+      <a href="{{ site.baseurl }}{{ poem.url }}" class="read-more">Read More</a>
+    </article>
+  {% endfor %}
+</div>
