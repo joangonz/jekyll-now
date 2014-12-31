@@ -278,6 +278,22 @@ footer {
   text-align: center;
 }
 
+
+
+#first-try {
+
+  border: 1px solid rgb(237, 237, 237);
+}
+
+.try-design {
+
+width: 30%;
+float: left;
+margin-left: 3%;
+
+
+
+}
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "_highlights";
