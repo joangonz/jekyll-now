@@ -6,7 +6,7 @@
 name: Joan Gonzalez
 
 # Short bio or description (displayed in the header)
-description: Designer from Somewhere
+description: My Intellectual Notions Dude
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://pbs.twimg.com/profile_images/540940722078101504/nKGvwHvz.jpeg
@@ -19,14 +19,14 @@ avatar: https://pbs.twimg.com/profile_images/540940722078101504/nKGvwHvz.jpeg
 footer-links:
   dribbble: 
   email: 
-  facebook: 
+  facebook: https://www.facebook.com/joan.gonzalez.35762
   flickr: 
-  github: barryclark/jekyll-now
+  github: 
   instagram: 
   linkedin: 
   pinterest: 
   rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
-  twitter: jekyllrb
+  twitter: https://twitter.com/joaanngonzalez
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
 
 # Your disqus shortname, entering this will enable commenting on posts
